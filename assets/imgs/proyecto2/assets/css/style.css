@@ -1,0 +1,46 @@
+body {
+    background-color: rgba(252, 246, 250, 0.929);margin: 0%;padding: 0%;
+}
+    
+.header {
+    background-image: url(../imgs/portada\ 2.jpg)  ;
+    background-color: rgb(206, 225, 225);
+    background-size:cover;
+    padding: 5em;
+    border: 1px solid;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+#titulo{
+font-size: 500%;
+}
+#subtitulo{
+    font-size: 300%;
+
+}
+
+.producto {
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px;
+    border-color: black;
+    font-size: 180%; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    text-align: left;
+  
+}
+.azul-izq{
+    color: black;text-align: left;font-size: 50px;
+}
+.descripcion{
+    font-size: 50%;text-align: left;
+}
+td{
+    padding:2em; width: 300px; background-color:rgba(246, 241, 241, 0.945)
+
+}
+img {
+    width: 500px; 
+}
+.footer{   background-color: brown; padding: 1em;text-align: center;font-size: 200%

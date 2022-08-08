@@ -1,0 +1,46 @@
+body{
+    font-family: "Roboto" ;
+}
+/*Nav*/
+.bgnavpersonalizado{
+    background-color: #28A745;
+}
+/*Card*/
+.card-title{
+    font-size: 20pt;font-weight: 300;color: #212529;text-align: left;
+}
+.card-subtitle{
+    font-size: 16pt;font-weight: 300;color: #707070;text-align: left;
+}
+.direccion{
+    font-size: 13pt;font-weight: 300;color: #707070;text-align: left;
+}
+.card_precio{
+
+    font-size: 16pt;font-weight: 300;color: #707070;
+}
+.card_precio_oferta{
+    font-size: 20pt;font-weight: 500;color: #28A745;
+}
+/*Grilla*/
+.card-img-top{
+    width: 100%;object-fit: cover; height: 15em; ;
+}
+
+/*Form*/
+form{
+    background-color: #28A745;
+}
+.title_form{
+    font-size: 21pt;font-weight: 500;color:white; text-align: center;
+}
+.placeholder{
+    font-size: 16pt;font-weight: 300;color: #707070;text-align: left;
+}
+button{
+    font-size: 16pt;font-weight: 500;color:black; text-align: center;
+}
+/*Fooder*/
+.textfooter{
+    font-size: 16pt;font-weight: 300;color: #707070;text-align: center;
+}
